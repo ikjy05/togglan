@@ -15,6 +15,16 @@
 
 `Togglan.app`이 프로젝트 루트에 생성됩니다.
 
+## 앱 아이콘 재생성 (선택)
+
+`AppIcon.icns`는 저장소에 포함되어 있어 보통 다시 만들 필요는 없습니다. 디자인을 바꾸고 싶다면:
+
+```bash
+swift scripts/generate_icon.swift
+iconutil -c icns Togglan.iconset -o AppIcon.icns
+./build.sh
+```
+
 ## 실행
 
 ```bash

@@ -1,5 +1,6 @@
 .build/
 Togglan.app/
+Togglan.iconset/
 .swiftpm/
 *.xcodeproj
 .DS_Store
