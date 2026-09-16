@@ -1,4 +1,8 @@
-# Togglan
+<div align="center">
+  <img src="docs/icon.png" width="128" height="128" alt="Togglan icon">
+
+  # Togglan
+</div>
 
 메뉴바에서 랜선(이더넷) 연결을 켜고 끄는 간단한 macOS 앱.
 
