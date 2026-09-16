@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/icon.png" width="128" height="128" alt="Togglan icon">
+  <img src="docs/icon.png" width="256" height="256" alt="Togglan icon">
 
   # Togglan
 </div>
